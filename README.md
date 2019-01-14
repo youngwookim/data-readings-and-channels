@@ -1,4 +1,4 @@
-# Readings and Youtube channels in Data Engineering and Data Science
+# Readings and Channels in Data Engineering and Data Science
 
 ## Readings
 
