@@ -10,6 +10,7 @@ TBD
 * [Netflix Data](https://www.youtube.com/channel/UC00QATOrSH4K2uOljTnnaKw)
 * [Twitter University](https://www.youtube.com/channel/UCeDh9omC_xMKrar2srQZiLg)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+* [Data Council (formerly DataEngConf)](https://www.youtube.com/user/g33ktalktv)
 
 ### Awesome-*
 * [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels)
