@@ -11,6 +11,10 @@
 * [Twitter University](https://www.youtube.com/channel/UCeDh9omC_xMKrar2srQZiLg)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 * [Data Council (formerly DataEngConf)](https://www.youtube.com/user/g33ktalktv)
+* [usenix](https://www.youtube.com/user/USENIXAssociation)
+* [FOSDEM](https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw)
+* [Flink Forward](https://www.youtube.com/channel/UCY8_lgiZLZErZPF47a2hXMA)
+* [DataHub Channel](https://www.youtube.com/channel/UC3qFQC5IiwR5fvWEqi_tJ5w)
 
 ### Awesome-*
 * [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels)
