@@ -4,6 +4,7 @@
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Building An Elastic Query Engine on Disaggregated Storage](https://www.usenix.org/conference/nsdi20/presentation/vuppalapati)
 * [https://www.cs.purdue.edu/homes/csjgwang/cloudb/]
+* [Real-time Data Infrastructure at Uber (SIGMOD '21)](https://arxiv.org/abs/2104.00087)
 
 ## Yountube Channels
 * [Spark Summit](https://www.youtube.com/channel/UCRzsq7k4-kT-h3TDUBQ82-w)
