@@ -1,6 +1,8 @@
 # Readings and Channels in Data Engineering and Data Science
 
-## Readings
+## Readings / Videos
+
+* [Microservices to Async Processing Migration at Scale](https://www.youtube.com/watch?v=j-TMI_Hv5KY)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Building An Elastic Query Engine on Disaggregated Storage](https://www.usenix.org/conference/nsdi20/presentation/vuppalapati)
 * [https://www.cs.purdue.edu/homes/csjgwang/cloudb/]
