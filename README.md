@@ -2,6 +2,7 @@
 
 ## Readings / Videos
 
+* [Rows, columns, and the search for a database that can do everything](https://www.theregister.com/2022/06/22/snowflake_unistore_analysis/)
 * [Microservices to Async Processing Migration at Scale](https://www.youtube.com/watch?v=j-TMI_Hv5KY)
 * [Designing Data-Intensive Applications](https://dataintensive.net/)
 * [Building An Elastic Query Engine on Disaggregated Storage](https://www.usenix.org/conference/nsdi20/presentation/vuppalapati)
